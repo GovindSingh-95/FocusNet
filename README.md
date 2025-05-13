@@ -43,6 +43,8 @@
 ## 🔗 Live Link
 [🌐 Visit FocusNet Live](https://spark-your-day-hub.lovable.app)
 
+---
+
 
 ## 🎨 Branding Suggestions
 
@@ -58,16 +60,19 @@
 
 To run the project locally:
 
-### ⚛️ React Version
+### 🧪 React Version
 ```bash
-  git clone https://github.com/YourUsername/focusnet.git<br>
-  cd focusnet<br>
-  npm install<br>
-  npm start
+git clone https://github.com/YourUsername/focusnet.git
+cd focusnet
+npm install
+npm start
+```
 
-###📦 Vanilla JS version
+### 📦 Vanilla JS Version
 ```bash
-  git clone https://github.com/YourUsername/focusnet.git
-  cd focusnet
-  open index.html
+git clone https://github.com/YourUsername/focusnet.git
+cd focusnet
+open index.html
+
+
 

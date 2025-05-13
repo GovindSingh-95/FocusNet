@@ -40,6 +40,10 @@
 
 ---
 
+## 🔗 Live Link
+[🌐 Visit FocusNet Live](https://spark-your-day-hub.lovable.app)
+
+
 ## 🎨 Branding Suggestions
 
 - **Logo:** A simple icon of a target 🎯 or focus rings in blue or green tones

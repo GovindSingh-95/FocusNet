@@ -1,73 +1,70 @@
-# Welcome to your Lovable project
+# 🎯 FocusNet – *All Your Essentials. One Dashboard.*
 
-## Project info
+**FocusNet** is a sleek, customizable productivity dashboard built to help you stay organized, focused, and efficient — all in one place. Designed with daily usability and clean aesthetics in mind.
 
-**URL**: https://lovable.dev/projects/6ae8d048-646d-4de3-8617-8a5db20a8d67
+---
 
-## How can I edit this code?
+## 🚀 Features
 
-There are several ways of editing your application.
+### ✅ To-Do List
+- Add, edit, complete, and delete tasks
+- Drag-and-drop to reorder
+- Persistent with local storage
 
-**Use Lovable**
+### 🗒️ Notes Section
+- Quick note-taking with auto-save
+- Support for multiple notes
+- Clean, distraction-free writing space
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/6ae8d048-646d-4de3-8617-8a5db20a8d67) and start prompting.
+### 🔗 Bookmark Manager
+- Save your favorite links with titles and categories
+- Open or delete with ease
+- Organized and searchable
 
-Changes made via Lovable will be committed automatically to this repo.
+---
 
-**Use your preferred IDE**
+### ✨ Bonus Features
+- 🌗 **Theme Toggle** (Light/Dark mode) with saved preference
+- 💾 **Local Storage** – all data remains saved across sessions
+- 📊 **Habit Tracker** to monitor progress (optional)
+- ⏱️ **Pomodoro Timer** for focused work sessions (optional)
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+---
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+## 🛠️ Tech Stack
 
-Follow these steps:
+- **Frontend:** HTML, CSS, JavaScript  
+  _(Optionally built with React + TailwindCSS)_
+- **Storage:** Browser LocalStorage
+- **UX:** Minimal, modular, responsive layout
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+---
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+## 🎨 Branding Suggestions
 
-# Step 3: Install the necessary dependencies.
-npm i
+- **Logo:** A simple icon of a target 🎯 or focus rings in blue or green tones
+- **Favicon:** A minimal eye, dartboard, or clock icon – easily generated using [favicon.io](https://favicon.io)
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+> *You can use free tools like [Canva](https://www.canva.com/) or [Figma](https://figma.com/) to create a custom logo.*
 
-**Edit a file directly in GitHub**
+---
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
 
-**Use GitHub Codespaces**
+## ⚙️ Getting Started
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+To run the project locally:
 
-## What technologies are used for this project?
+### ⚛️ React Version
+'''bash
+  git clone https://github.com/YourUsername/focusnet.git
+  cd focusnet
+  npm install
+  npm start
 
-This project is built with:
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+### 📦 Vanilla JS version
+```bash
+  git clone https://github.com/YourUsername/focusnet.git
+  cd focusnet
+  open index.html
 
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/6ae8d048-646d-4de3-8617-8a5db20a8d67) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)

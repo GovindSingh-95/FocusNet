@@ -7,7 +7,7 @@ export function Header() {
       <div className="container flex h-16 items-center justify-between">
         <div className="flex items-center gap-2">
           <div className="flex flex-col">
-            <h1 className="text-xl font-bold tracking-tight">FocusNest</h1>
+            <h1 className="text-xl font-bold tracking-tight">FocusNet</h1>
             <p className="text-xs text-muted-foreground">Your productivity, simplified.</p>
           </div>
         </div>

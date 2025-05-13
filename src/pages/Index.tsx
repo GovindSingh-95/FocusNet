@@ -10,7 +10,7 @@ import { ThemeProvider } from "@/components/theme-provider";
 
 const Index = () => {
   return (
-    <ThemeProvider defaultTheme="system" storageKey="focusnest-theme">
+    <ThemeProvider defaultTheme="system" storageKey="focusnet-theme">
       <div className="min-h-screen flex flex-col">
         <Header />
         <main className="flex-1 container py-6">

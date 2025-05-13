@@ -55,14 +55,13 @@
 To run the project locally:
 
 ### ⚛️ React Version
-'''bash
-  git clone https://github.com/YourUsername/focusnet.git
-  cd focusnet
-  npm install
+```bash
+  git clone https://github.com/YourUsername/focusnet.git<br>
+  cd focusnet<br>
+  npm install<br>
   npm start
 
-
-### 📦 Vanilla JS version
+###📦 Vanilla JS version
 ```bash
   git clone https://github.com/YourUsername/focusnet.git
   cd focusnet

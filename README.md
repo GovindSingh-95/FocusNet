@@ -40,6 +40,10 @@
 
 ---
 
+## 📸 Screenshots
+![image](https://github.com/user-attachments/assets/a68666d3-e338-492b-bb59-f47829d8372d)
+
+
 ## 🔗 Live Link
 [🌐 Visit FocusNet Live](https://spark-your-day-hub.lovable.app)
 
